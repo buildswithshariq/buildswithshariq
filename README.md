@@ -2,13 +2,13 @@
 
 I'm a BCA student and aspiring Software Developer passionate about building real-world applications and improving my skills every day.
 
-## 🚀 Currently Learning
+## Currently Learning
 - MERN Stack Development
 - Backend Engineering
 - Data Structures & Algorithms
 - System Design
 
-## 🛠 Tech Stack
+## Tech Stack
 - JavaScript
 - React.js
 - Node.js
@@ -19,15 +19,15 @@ I'm a BCA student and aspiring Software Developer passionate about building real
 - Git & GitHub
 - Next.js
 
-## 📌 Current Goals
+## Current Goals
 - Build production-level projects
 - Contribute to open source
 - Improve problem-solving skills
 - Become a strong full stack developer
 
-## 🌱 Currently Building
+## Currently Building
 A real-time chat application using MERN + Socket.io 
 A real-time social media application using MERN + Socket.io
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/buildswithshariq/
